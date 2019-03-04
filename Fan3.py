@@ -1,2 +1,3 @@
-print ("Tets 3")
-print("test4")
+print ("hello")
+print("test1")
+print("123")
